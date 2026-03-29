@@ -5,6 +5,7 @@ import Ticker from './pages/Ticker'
 import Features from './pages/Features'
 
 import Hero from './pages/Herosection'
+import Last from './pages/Last'
 
 function App() {
   useEffect(() => {
@@ -34,7 +35,7 @@ function App() {
       <Hero/>
       <Ticker/>
       <Features/>
-
+       <Last/>
     </div>
   )
 }
