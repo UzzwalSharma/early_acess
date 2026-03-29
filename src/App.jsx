@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react'
 import { Toaster } from 'react-hot-toast'
 import toast from 'react-hot-toast'
-import HeroSection from './pages/hero'
-import Ticker from './pages/ticker'
+import HeroSection from './pages/Hero'
+import Ticker from './pages/Ticker'
 import Features from './pages/Features'
 import Download from './pages/Final'
 
