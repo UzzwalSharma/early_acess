@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Download, Smartphone, Star, Send, MessageCircle, Clock, ChevronDown } from "lucide-react";
 import { useMutation, useQuery } from "convex/react";
-import { api } from "../../convex/_generated/api";
+import {api} from "../../convex/_generated/api"
 import toast from "react-hot-toast";
 import { Element, Link } from "react-scroll";
 
