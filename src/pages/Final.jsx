@@ -173,10 +173,10 @@ export default function Final() {
             style={{ background: "#0f0f0f" }}
           >
             {/* Left: App Icon & Info */}
-            <div className="flex flex-col items-start gap-4 flex-shrink-0">
+            <div className="flex flex-col items-start gap-4 shrink-0">
               {/* App Icon */}
               <div
-                className="w-28 h-28 rounded-2xl flex items-center justify-center text-6xl flex-shrink-0"
+                className="w-28 h-28 rounded-2xl flex items-center justify-center text-6xl shrink-0"
                 style={{
                   background: "linear-gradient(135deg,#7c3aed,#5b21b6)",
                   boxShadow: "0 12px 40px rgba(124,58,237,0.45)",

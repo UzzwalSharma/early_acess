@@ -401,7 +401,7 @@ export default function HeroSection() {
             to="features"
             smooth={true}
             duration={500}
-            className="flex items-center gap-2 text-black semibold font-dm px-6 py-3  hover:animate-pulse px-6 py-3 rounded-md transition-all duration-200 border border-white/10 hover:border-white/20 cursor-pointer"
+            className="flex items-center gap-2 text-black semibold font-dm px-6 py-3 hover:animate-pulse rounded-md transition-all duration-200 border border-white/10 hover:border-white/20 cursor-pointer"
             style={{ background: "white" }}
           >
             See features
