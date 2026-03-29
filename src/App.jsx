@@ -3,7 +3,7 @@ import { Toaster } from 'react-hot-toast'
 import toast from 'react-hot-toast'
 import Ticker from './pages/Ticker'
 import Features from './pages/Features'
-import Download from './pages/Final'
+import Download from './pages/Downloadnreview'
 import Hero from './pages/Herosection'
 
 function App() {
