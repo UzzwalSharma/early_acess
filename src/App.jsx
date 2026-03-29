@@ -3,7 +3,7 @@ import { Toaster } from 'react-hot-toast'
 import toast from 'react-hot-toast'
 import Ticker from './pages/Ticker'
 import Features from './pages/Features'
-import Download from './pages/Downloadnreview'
+import Lastpage from './pages/Last'
 import Hero from './pages/Herosection'
 
 function App() {
@@ -34,7 +34,7 @@ function App() {
       <Hero/>
       <Ticker/>
       <Features/>
-      <Download/>
+      <Lastpage/>
     </div>
   )
 }

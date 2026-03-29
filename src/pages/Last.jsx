@@ -106,7 +106,7 @@ function CommentCard({ comment, index }) {
 }
 
 // ── Main component ────────────────────────────────────────────────
-export default function Final() {
+export default function Last() {
   const [name, setName]       = useState("");
   const [comment, setComment] = useState("");
   const [rating, setRating]   = useState(0);
