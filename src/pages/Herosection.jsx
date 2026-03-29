@@ -148,7 +148,7 @@ const fadeUp = {
   }),
 };
 
-export default function HeroSection() {
+export default function Hero() {
   const reduced = useReducedMotion();
 
   const phones = [
