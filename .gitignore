@@ -12,9 +12,7 @@ dist
 dist-ssr
 *.local
 
-# Convex
-convex/_generated
-.convex
+
 
 # Editor directories and files
 .vscode/*
