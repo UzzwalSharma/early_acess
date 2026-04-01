@@ -10,7 +10,7 @@ import Last from './pages/Last'
 function App() {
   useEffect(() => {
     // Show welcome toast on page load
-    toast.success('Welcome to PrepMate! Join 7 early birds unlocking focus.', {
+    toast.success('Welcome to PrepMate!', {
       duration: 4000,
       style: {
         background: 'linear-gradient(135deg, rgba(124,58,237,0.9), rgba(6,182,212,0.7))',

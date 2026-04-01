@@ -427,7 +427,7 @@ export default function Hero() {
           >
             <span style={{ width: 8, height: 8, borderRadius: "50%", background: "#22d3ee", animation: "pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite" }} />
             <span className="text-cyan-300 text-sm font-semibold">
-              <span style={{ color: "#fff" }}>7 of 10</span> spots available
+              <span style={{ color: "#fff" }}>5 of 10</span> spots available
             </span>
           </div>
 
